@@ -1,0 +1,16 @@
+my_tuple =("Apple",8,True)
+print(type(my_tuple))
+
+# class=tuple
+
+my_tuple_1 =(8)
+print(type(my_tuple_1))
+
+# class=int
+
+my_tuple_1 =(8,)
+print(type(my_tuple_1))
+
+# class = tuple
+
+

@@ -1,0 +1,38 @@
+# assignment
+x=5
+print(x)
+
+# add and assign
+x=5
+x+=7
+print(x)
+
+# subtract and assign
+x=5
+x-=7
+print(x)
+
+# multiply and assign
+x=5
+x*=7
+print(x)
+
+# divide and assign
+x=5
+x/=7
+print(x)
+
+# module and assign
+x=5
+x%=7
+print(x)
+
+# exponentitation and assign
+x=5
+x**=7
+print(x)
+
+# floor division and assign
+x=5
+x//=7
+print(x)

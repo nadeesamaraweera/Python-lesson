@@ -1,0 +1,5 @@
+my_range=range(1,11,2)
+print(tuple(my_range))
+print(type(my_range))
+print((my_range[1]))
+print(len(my_range))

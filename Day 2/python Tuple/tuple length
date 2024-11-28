@@ -1,0 +1,5 @@
+my_tuple =("Apple",8,True)
+print(len(my_tuple))
+
+# length = 3
+

@@ -1,0 +1,12 @@
+my_list_1 =[8,10,12,13,15]
+print(10 in my_list_1)
+print(11 in my_list_1)
+
+# True
+# False
+
+my_list_1 =[8,10,12,13,15]
+print(10 not in my_list_1)
+print(11 not in my_list_1)
+# False
+# True

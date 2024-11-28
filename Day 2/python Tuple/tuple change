@@ -1,0 +1,9 @@
+my_tuple =(8,10,12,17)
+my_list = list(my_tuple)
+my_list[2] = 15
+print(my_list)
+
+
+
+my_tuple=type(my_tuple)
+print(my_tuple)

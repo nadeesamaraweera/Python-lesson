@@ -1,0 +1,11 @@
+# Logical AND
+x,y = 5,6
+print(x<10 and y<8)
+
+# Logical OR
+x,y = 5,6
+print(x<10 or y<8)
+
+# Logical NOT
+x,y = 5,6
+print( not x>1)

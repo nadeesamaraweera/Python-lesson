@@ -1,0 +1,27 @@
+# Addition
+x,y=9,4
+print(x+y)
+
+# Substraction
+x,y=9,4
+print(x-y)
+
+# Multiplication
+x,y=9,4
+print(x*y)
+
+# Exponentitation
+x,y=9,4
+print(x**y)
+
+# Division
+x,y=9,4
+print(x/y)
+
+# Floor Division
+x,y=9,4
+print(x//y)
+
+# Modules
+x,y=9,4
+print(x % y)

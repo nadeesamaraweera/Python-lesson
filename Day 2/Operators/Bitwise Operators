@@ -1,0 +1,15 @@
+# Bitwise AND
+x,y =5,10
+print(x & y)
+
+# Bitwise OR
+x,y =5,10
+print(x | y)
+
+# Bitwise XOR
+x,y =5,10
+print(x^y)
+
+# Bitwise NOT
+x = 5
+print(~x)

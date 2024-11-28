@@ -1,0 +1,6 @@
+my_tuple = ((1,2,3),("apple","banana","grapes"),(True, False))
+print(my_tuple[1][1])
+ # banana
+
+print(my_tuple[2][1])
+# False
