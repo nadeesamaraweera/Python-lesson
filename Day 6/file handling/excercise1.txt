@@ -1,0 +1,3 @@
+John Doe,12345678,john@example.com
+Kate Ferry,0876756456,kate@example.com
+nadeesha samaraweera,0765645345,nadee@gmail.com
